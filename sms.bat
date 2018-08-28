@@ -1,0 +1,1 @@
+php Applications\Chat\start_cai.php Applications\Chat\start_sms.php pause

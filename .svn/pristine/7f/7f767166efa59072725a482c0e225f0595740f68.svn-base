@@ -1,0 +1,1 @@
+php Applications\Chat\start_k.php pause
